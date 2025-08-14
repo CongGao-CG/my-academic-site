@@ -1,0 +1,16 @@
+main:
+  - name: CV
+    url: /cv/
+    weight: 1
+  - name: Publication
+    url: /publication/
+    weight: 2
+  - name: News
+    url: /news/
+    weight: 3
+  - name: Links
+    url: /links/
+    weight: 4
+  - name: Contact
+    url: /contact/
+    weight: 5
