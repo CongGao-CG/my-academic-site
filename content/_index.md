@@ -3,6 +3,5 @@ layout: page
 type: homepage
 ---
 
-Hi, I’m Cong Gao, a researcher working on tropical cyclones and climate.
+Hi, I’m Cong Gao, a postdoc researcher working on tropical cyclone risk @ [Princeton University](https://ninglin.princeton.edu).
 
-I’m currently a Postdoctoral Research Associate in the Department of Civil & Environmental Engineering at Princeton University.
