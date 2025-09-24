@@ -10,7 +10,6 @@ type: page
 [Engineering Quadrangle](https://engineering.princeton.edu/about/visitors) E420
 
 51 Olden St
-
 Princeton, NJ 08544, USA
 
 <p align="center">
