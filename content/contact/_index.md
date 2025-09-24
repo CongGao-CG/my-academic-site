@@ -7,9 +7,8 @@ type: page
 [cong.gao@princeton.edu](mailto:cong.gao@princeton.edu)
 
 ### 🏢 Office  
-E420 Engineering Quad  
-Department of Civil & Environmental Engineering  
-Princeton University  
+[Engineering Quadrangle](https://engineering.princeton.edu/about/visitors) E420
+51 Olden St
 Princeton, NJ 08544, USA
 
 <p align="center">
