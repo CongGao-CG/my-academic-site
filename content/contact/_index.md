@@ -7,7 +7,7 @@ type: page
 [cong.gao@princeton.edu](mailto:cong.gao@princeton.edu)
 
 ### 🏢 Office  
-Engineering Quadrangle E420\
+[Engineering Quadrangle](https://engineering.princeton.edu/about/visitors) E420\
 51 Olden St\
 Princeton, NJ 08544, USA
 
