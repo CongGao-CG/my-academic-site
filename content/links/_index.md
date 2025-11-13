@@ -29,7 +29,7 @@ type: page
       </td>
       <td style="vertical-align: middle;">
         <span style="font-size: 1.25rem; font-weight: 700;">
-          <a href="https://oppenheimer.scholar.princeton.edu/" target="_blank" rel="noopener noreferrer">
+          <a href="https://oppenheimer.scholar.princeton.edu" target="_blank" rel="noopener noreferrer">
             Michael Oppenheimer
           </a>
         </span><br>
@@ -61,7 +61,7 @@ type: page
       </td>
       <td style="vertical-align: middle;">
         <span style="font-size: 1.25rem; font-weight: 700;">
-          <a href="https://homepage.ntu.edu.tw/~iilin/" target="_blank" rel="noopener noreferrer">
+          <a href="https://homepage.ntu.edu.tw/~iilin" target="_blank" rel="noopener noreferrer">
             I-I Lin
           </a>
         </span><br>
@@ -110,7 +110,7 @@ type: page
       <img src="/img/sjtu-logo.png" alt="SJTU Logo" style="height: 40px;">
     </td>
     <td style="vertical-align: middle;">
-      <a href="https://soo.sjtu.edu.cn/en/" target="_blank" rel="noopener noreferrer">
+      <a href="https://soo.sjtu.edu.cn/en" target="_blank" rel="noopener noreferrer">
         School of Oceanography, Shanghai Jiao Tong University
       </a>
     </td>
