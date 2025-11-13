@@ -61,7 +61,7 @@ type: page
       </td>
       <td style="vertical-align: middle;">
         <span style="font-size: 1.25rem; font-weight: 700;">
-          <a href="https://homepage.ntu.edu.tw/~iilin/" target="_blank" rel="noopener noreferrer">
+          <a href="https://homepage.ntu.edu.tw/~iilin" target="_blank" rel="noopener noreferrer">
             I-I Lin
           </a>
         </span><br>
