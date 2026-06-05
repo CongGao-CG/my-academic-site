@@ -1,0 +1,12 @@
+{{- $doiURL := . -}}
+{{- $doiText := replaceRE "^https?://(dx\\.)?doi\\.org/" "" $doiURL -}}
+<a
+  href="{{ $doiURL }}"
+  target="_blank"
+  rel="noopener"
+  aria-label="Open DOI {{ $doiText }}"
+  style="display:inline-flex;align-items:center;overflow:hidden;border-radius:3px;font-size:0.875rem;line-height:1.35;font-weight:500;text-decoration:none;color:#fff;vertical-align:middle;"
+>
+  <span style="background:#555;padding:0.1rem 0.45rem;">DOI</span>
+  <span style="background:#2f8dcc;padding:0.1rem 0.55rem;">{{ $doiText }}</span>
+</a>

@@ -18,9 +18,7 @@
                 </a>
               {{ end }}
               {{ if .Params.doi }}
-                <a href="{{ .Params.doi }}" target="_blank" rel="noopener" class="inline-flex items-center px-2 py-1 bg-yellow-100 text-yellow-800 text-sm font-medium rounded">
-                  🔗 DOI
-                </a>
+                {{ partial "doi_badge.html" .Params.doi }}
               {{ end }}
             </div>
           </header>
