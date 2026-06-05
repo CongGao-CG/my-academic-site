@@ -19,17 +19,19 @@
             </div>
           {{ end }}
 
-          <div class="mt-2 text-sm flex gap-4">
+          <div class="mt-2 text-sm flex flex-wrap items-center gap-4">
             {{ with .Params.url_pdf }}
               <a href="{{ . }}" target="_blank" rel="noopener" class="text-blue-600 hover:underline">PDF</a>
             {{ end }}
 
             {{ with .Params.doi }}
               {{ partial "doi_badge.html" . }}
+              {{ partial "dimensions_badge.html" . }}
             {{ end }}
           </div>
         </div>
       {{ end }}
     </div>
+    {{ partial "dimensions_badge_script.html" . }}
   </main>
 {{ end }}

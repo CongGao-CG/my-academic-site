@@ -1,0 +1,8 @@
+{{- $doiURL := . -}}
+{{- $doiText := replaceRE "^https?://(dx\\.)?doi\\.org/" "" $doiURL -}}
+<span
+  class="__dimensions_badge_embed__"
+  data-doi="{{ $doiText }}"
+  data-style="small_rectangle"
+  data-legend="hover-right"
+></span>

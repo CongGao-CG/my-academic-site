@@ -11,7 +11,7 @@
             <p>
               {{ .Params.journal }} {{ .Date.Year }}
             </p>
-            <div class="mt-2 flex gap-4">
+            <div class="mt-2 flex flex-wrap items-center gap-4">
               {{ if .Params.url_pdf }}
                 <a href="{{ .Params.url_pdf }}" target="_blank" rel="noopener" class="inline-flex items-center px-2 py-1 bg-blue-100 text-blue-800 text-sm font-medium rounded">
                   📄 PDF
@@ -19,6 +19,7 @@
               {{ end }}
               {{ if .Params.doi }}
                 {{ partial "doi_badge.html" .Params.doi }}
+                {{ partial "dimensions_badge.html" .Params.doi }}
               {{ end }}
             </div>
           </header>
@@ -27,5 +28,6 @@
         </article>
       </div>
     </div>
+    {{ partial "dimensions_badge_script.html" . }}
   </main>
 {{ end }}
